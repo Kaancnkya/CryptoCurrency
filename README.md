@@ -7,7 +7,6 @@ This application is a cryptocurrency tracking app that lists all the cryptocurre
 
 + MVVM Architecture
 + [Hilt](https://developer.android.com/jetpack/compose/libraries#hilt)
-+ [Room](https://developer.android.com/training/data-storage/room)
 + [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started)
 + [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel#implement)
 + [Coroutines](https://developer.android.com/kotlin/coroutines)
